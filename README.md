@@ -17,8 +17,8 @@ The project idea has been tested on adverbs and adjectives mostly. Also the enti
 * [Authors-Information](#Authors-Information)
 
 ## Setup
-1. douwnlaod jupiter notebook or upload the code file in google colab
-2.make sure your using python 3 and above version as the code is written in python 3 and above 
+1. Download jupiter notebook or upload the code file in google colab
+2. make sure your using python 3 and above version as the code is written in python 3 and above 
 3. In the data folder the following files are also uploaded or shifted outside the data folder to the folder the ipynb notebook is :
  * sentiwordnet.csv
  * shubdanjili.utf8
